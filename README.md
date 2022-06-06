@@ -33,10 +33,11 @@ This is the place where I opensource stuff and break things :rofl:
  
 📊 &nbsp;**Stats**
 
+<a href="https://github.com/jstrieb/github-stats">
+
 ![](https://raw.githubusercontent.com/SayantanD99/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SayantanD99/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  
 ![](https://raw.githubusercontent.com/SayantanD99/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SayantanD99/github-stats/master/generated/languages.svg#gh-light-mode-only)
-  
+    
+ </a>
+   
 ![Sayantan's Github Profile Views](https://komarev.com/ghpvc/?username=SayantanD99&color=blueviolet)
