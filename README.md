@@ -7,8 +7,8 @@ A young full stack developer from India 🇮🇳
 This is the place where I opensource stuff and break things :rofl:
 
   - 🔭 &nbsp;I’m currently working on something cool :wink:
-  - 🌱 &nbsp;I’m currently learning Javascript
-  - 💬 &nbsp;Ask me about anything related to Java/C++/C/Python or Javascript/Node/React/Express/MongoDB/Web3
+  - 🌱 &nbsp;I’m currently learning Java
+  - 💬 &nbsp;Ask me about anything related to Java/C++/C/Python
   - 📫 &nbsp;How to reach me: [@itsme_sayantan](https://twitter.com/itsme_sayantan)
   - ⚡ &nbsp;Fun fact: I :heart: :dog:s 🎧s ☕ 🎮 
   - ☕ &nbsp;**Coffee tastes way better than Chai | Change my mind!** 
