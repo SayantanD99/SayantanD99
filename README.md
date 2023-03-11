@@ -7,7 +7,7 @@ A young full stack developer from India 🇮🇳
 This is the place where I opensource stuff and break things :rofl:
 
   - 🔭 &nbsp;I’m currently working on something cool :wink:
-  - 🌱 &nbsp;I’m currently learning Java
+  - 🌱 &nbsp;I’m currently re-learning Java
   - 💬 &nbsp;Ask me about anything related to Java/C++/C/Python
   - 📫 &nbsp;How to reach me: [@itsme_sayantan](https://twitter.com/itsme_sayantan)
   - ⚡ &nbsp;Fun fact: I :heart: :dog:s 🎧s ☕ 🎮 
