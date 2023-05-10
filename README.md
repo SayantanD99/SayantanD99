@@ -32,12 +32,9 @@ This is the place where I opensource stuff and break things :rofl:
 </details>
  
 📊 &nbsp;**Stats**
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://raw.githubusercontent.com/SayantanD99/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SayantanD99/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-    
- </a>
    
 ![Sayantan's Github Profile Views](https://komarev.com/ghpvc/?username=SayantanD99&color=blueviolet)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayantanD99&show_icons=true&locale=en&layout=compact" alt="SayantanD99"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SayantanD99&show_icons=true&locale=en" alt="SayantanD99"/></p>
