@@ -7,8 +7,8 @@ A young full stack developer from India 🇮🇳
 This is the place where I opensource stuff and break things :rofl:
 
   - 🔭 &nbsp;I’m currently working on something cool :wink:
-  - 🌱 &nbsp;I’m currently re-learning Java
-  - 💬 &nbsp;Ask me about anything related to Java/C++/C/Python
+  - 🌱 &nbsp;I’m currently learning Web Development
+  - 💬 &nbsp;Ask me about anything related to Java/Javascript/React/Node.js
   - 📫 &nbsp;How to reach me: [@itsme_sayantan](https://twitter.com/itsme_sayantan)
   - ⚡ &nbsp;Fun fact: I :heart: :dog:s 🎧s ☕ 🎮 
   - ☕ &nbsp;**Coffee tastes way better than Chai | Change my mind!** 
@@ -38,5 +38,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![Sayantan's Github Profile Views](https://komarev.com/ghpvc/?username=SayantanD99&color=blueviolet)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayantanD99&show_icons=true&locale=en&layout=compact" alt="SayantanD99"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SayantanD99&show_icons=true&locale=en" alt="SayantanD99"/></p>
