@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantand99&label=Profile%20views&color=0e75b6&style=flat" alt="sayantand99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsme_sayantan" target="blank"><img src="https://img.shields.io/twitter/follow/itsme_sayantan?logo=twitter&style=for-the-badge" alt="itsme_sayantan" /></a> </p>
-
 - 🔭 I’m currently working for **Capgemini**
 
 - 🌱 I’m currently learning **System Design**
@@ -156,8 +154,6 @@
 	</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantand99&show_icons=true&locale=en&layout=compact" alt="sayantand99" /></p>
+<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=sayantand99&rank_icon=github&show_icons=true&theme=dracula" alt="sayantand99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantand99&show_icons=true&locale=en" alt="sayantand99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantand99&" alt="sayantand99" /></p>
+<p><img height=200 align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantand99&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sayantand99" /></p>
