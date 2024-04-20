@@ -154,6 +154,6 @@
 	</a>
 </p>
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=sayantand99&rank_icon=github&show_icons=true&theme=dracula" alt="sayantand99" /></p>
+<p><img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=sayantand99&rank_icon=github&show_icons=true&theme=dracula" alt="sayantand99" /></p>
 
-<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantand99&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sayantand99" /></p>
+<p><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantand99&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sayantand99" /></p>
