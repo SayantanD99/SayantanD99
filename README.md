@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for **Capgemini**
 
-- 🌱 I’m currently learning about ** Web 3**
+- 🌱 I’m currently learning about **Web 3**
 
 - 🤝 I’m looking for help with **Building Scalable Applications**
 
