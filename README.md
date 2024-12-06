@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantand99&label=Profile%20views&color=0e75b6&style=flat" alt="sayantand99" /> </p>
 
-- 🔭 I’m currently working for **Capgemini**
+- 🔭 I’m currently working for **Capgemini**.
 
-- 🌱 I’m currently learning about **Web 3**
+- 🌱 I’m currently learning about **Web 3**.
 
-- 🤝 I’m looking for help with **Building Scalable Applications**
+- 💬 Ask me about **Java, Springboot, Javascript, Node.Js, Express.Js, React.Js, Python, MySQL, MongoDB, Gen AI, LLM, RAG, AWS**.
+
+- 🤝 I’m enthusiastic about technical advancements in the fields of **Software Development & Scalable Applications, Computing Hardware, and Generative AIs & Large Language Models**.
 
 - 👨‍💻 Here's my Portfolio at [@CodeCraftsBySanta](https://codecraftsbysanta.in/)
-
-- 💬 Ask me about **Java, Springboot, Javascript, Node.Js, Express.Js, React.Js, MySQL, MongoDB, AWS**
 
 - 📫 How to reach me [@SayantanD99](https://x.com/SayantanD99)
 
