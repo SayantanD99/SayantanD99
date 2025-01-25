@@ -1,12 +1,12 @@
 <h1 align="center">Hi <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Sayantan</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/Banner-1.png" width="1200" alt="banner"/>
+<img align="center" src="https://raw.githubusercontent.com/sayantand99/sayantand99/main/.github/workflows/images/Banner-1.png" width="1200" alt="banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1200&lines=A+Young+Software+Engineer+from+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sayantand99&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews"/> </p>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/Intro.gif" width="200" height="300" alt="image"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/sayantand99/sayantand99/main/.github/workflows/images/Intro.gif" width="200" height="300" alt="image"/>
 
 - 🔭 I’m currently working for **Capgemini**.
 
@@ -200,7 +200,7 @@
 <h3 align="left">My Statistics</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/ocean.gif" alt="snake gif" />
 </div>
 
 <br />
