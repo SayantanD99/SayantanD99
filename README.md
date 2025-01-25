@@ -203,7 +203,7 @@
   <img src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
-<br clear="both">
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayantanD99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="Stats" height="150"/>
