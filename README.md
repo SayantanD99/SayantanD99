@@ -1,7 +1,12 @@
-<h1 align="center">Hi <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sayantan</h1>
-<h3 align="center">A Young Full Stack Developer from India</h3>
+<h1 align="center">Hi <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Sayantan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantand99&label=Profile%20views&color=0e75b6&style=flat" alt="sayantand99" /> </p>
+<img align="center" src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc3NjQ3NDQsIm5iZiI6MTczNzc2NDQ0NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI1VDAwMjA0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyZjg2NDdkMzM5NjlhZTEzMjVjN2EyNWY1MTZhOWMwNzU3NGNlMTYxY2Y4ODU2YTRkMjc3MzY3NWJkODVjMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IS_NTK8WljQjG1tvYE64TNqGlYH1hCVY4Z7j5HMaMXU" width="1200" alt="banner"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1200&lines=A+Young+Software+Engineer+from+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sayantand99&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews"/> </p>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="300" alt="image"/>
 
 - 🔭 I’m currently working for **Capgemini**.
 
@@ -21,139 +26,185 @@
 
 - ☕ **Coffee tastes way better than Chai | Change my mind !** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/SayantanD99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayantand99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantand99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayantand99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayantand99" height="30" width="40" /></a>
+<h3 align="left">Coding Profiles</h3>
+
+<p align="left"><a href="https://www.leetcode.com/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCodeProfile" height="40"/><img width="25"/></a><a href="https://www.hackerrank.com/sayantand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRankProfile" height="40"/><img width="25"/></a></p>
+
+<h3 align="left">Programming Tools</h3>
+
+<div align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40" alt="C logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="Groovy logo" />
+  <img width="15" />
+
+  <!-- Backend Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" height="40" alt="Springboot logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" height="40" alt="Hibernate logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" height="40" alt="Lombok logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="40" alt="Node.js logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" height="40" alt="HTTP logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="40" alt="REST logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" height="40" alt="SOAP logo" />
+  <img width="15" />
+
+  <!-- Databases -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
+  <img width="15" />
+
+  <!-- Frontend Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="15" />
+
+  <!-- DevOps & Deployment -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="Nginx logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/yarn.png" height="40" alt="Yarn logo" />
+  <img width="15" />
+
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" alt="GitHub logo" />
+  <img width="15" />
+
+  <!-- CI/CD & Build Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="Apache Maven logo" />
+  <img width="15" />
+
+  <!-- Testing & API Tools -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" height="40" alt="JUnit logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" height="40" alt="Mocikto logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman logo" />
+  <img width="15" />
+
+  <!-- Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" height="40" alt="Pandas logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+  <img width="15" />
+
+  <!-- Project Management -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
+  <img width="15" />
+
+  <!-- IDEs & Editors -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="40" alt="VSCode logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" height="40" alt="Sublime Text logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse IDE logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="Replit logo" />
+  <img width="15" />
+
+  <!-- Operating Systems -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" height="40" alt="Windows logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" height="40" alt="macOS logo" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" height="40" alt="Ubuntu logo" />
+  <img width="15" />
+
+  <!-- Miscellaneous Tools -->
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ logo" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="Putty logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="SSH logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat logo" />
+  <img width="15" />
+  
+</div>
+
+<br clear="both">
+
+###
+
+<h3 align="left">My Statistics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayantanD99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayantanD99&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayantanD99&radius=16&theme=react&area=true&order=5" alt="Activity Graph" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">  
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-	</a>	
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	</a>	
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-	</a>	
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-	</a>	
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-	</a>	
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	</a>	
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	</a>	
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	</a>	
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-	</a>	
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-	</a>	
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-	</a>	
-	<a href="https://spring.io/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-	</a>	
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-	</a>
-		<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-	</a>
-		<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-	</a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-	</a>	
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-	</a>	
-	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-	</a>	
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-	</a>
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-	</a>	
-	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-	</a>	
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-	</a>	
-	<a href="https://appwrite.io" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-	</a>	
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-	</a>
-	<a href="https://graphql.org" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-	</a>
-	<a href="https://heroku.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-	</a>	
-	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-	</a>	
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-	</a>	
-	<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-	</a>	
-	<a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-	</a>	
-	<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-	</a>
-	<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-	</a>
-	<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-	</a>
-	<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-	</a>	
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-	</a>	
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-	</a>
-</p>
-
-<p><img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=SayantanD99&rank_icon=github&show_icons=true&theme=dracula" alt="SayantanD99" /></p>
-
-<p><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayantanD99&show_icons=true&theme=dracula&locale=en&layout=compact" alt="SayantanD99" /></p>
+###
