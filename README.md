@@ -204,11 +204,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sayantand99/sayantand99/output/github-snake.svg" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayantanD99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayantanD99&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayantanD99&radius=16&theme=react&area=true&order=5" alt="Activity Graph" height="150"/>
-</div>
