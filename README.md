@@ -8,7 +8,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/sayantand99/sayantand99/main/.github/workflows/images/Intro.gif" width="200" height="300" alt="image"/>
 
-- 🔭 I’m currently working for **Capgemini**.
+- 🔭 I’m currently working for **JPMorganChase**.
 
 - 🌱 I’m currently learning about **Web 3**.
 
